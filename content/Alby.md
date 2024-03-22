@@ -1,7 +1,7 @@
 ---
 title: Alby
-Titledraft: false
-alsetags:
+Titledraft: true
+tags:
   - Player
 ---
 ## Apresentação
